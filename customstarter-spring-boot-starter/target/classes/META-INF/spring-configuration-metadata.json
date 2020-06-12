@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "custom",
+      "type": "com.custom.properties.CustomerProperties",
+      "sourceType": "com.custom.properties.CustomerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "custom.name",
+      "type": "java.lang.String",
+      "sourceType": "com.custom.properties.CustomerProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "custom.url",
+      "type": "java.lang.String",
+      "sourceType": "com.custom.properties.CustomerProperties",
+      "defaultValue": ""
+    }
+  ],
+  "hints": []
+}

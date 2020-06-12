@@ -1,0 +1,5 @@
+com\custom\config\CustomerAutoConfig.class
+com\custom\properties\CustomerProperties.class
+com\custom\App.class
+META-INF\spring-configuration-metadata.json
+com\custom\service\CustomerService.class

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="testcustomerstarter-spring-boot-stater:war">
+    <output-path>$PROJECT_DIR$/testcustomerstarter-spring-boot-stater/target</output-path>
+    <root id="archive" name="testcustomerstarter-spring-boot-stater-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="testcustomerstarter-spring-boot-stater:war exploded" />
+    </root>
+  </artifact>
+</component>
